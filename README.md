@@ -12,9 +12,6 @@ Note: I am available [here](https://vishalvishwakarma.com/) for more updates.
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalv26&theme=dark&hide_langs_below=1&bg_color=002366&icon_color=87ceeb&text_color=daf7dc&title_color=ffffff" />
 </a>
   
-<a href="https://github.com/vishalv26/covid-vaccine-booking">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishalv26&repo=covid-vaccine-booking&theme=dark&bg_color=002366&icon_color=87ceeb&text_color=daf7dc&title_color=ffffff" />
-</a>
 <a href="https://github.com/vishalv26/scheduled-automated-mariadb-mysql-backup">
  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=vishalv26&repo=scheduled-automated-mariadb-mysql-backup&theme=dark&bg_color=002366&icon_color=87ceeb&text_color=daf7dc&title_color=ffffff" />
 </a>
